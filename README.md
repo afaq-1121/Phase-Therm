@@ -7,7 +7,6 @@ Phase Therm: A C project for precise temperature info on steel phase transformat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -45,10 +44,6 @@ Contributions to Phase Therm are welcome! If you want to contribute, please foll
 5. Submit a pull request.
 
 Please ensure your code follows the project's coding conventions and includes appropriate documentation.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
